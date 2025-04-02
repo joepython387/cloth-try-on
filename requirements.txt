@@ -65,4 +65,3 @@ typing_extensions
 tzdata==2025.2
 urllib3==2.3.0
 watchdog==6.0.0
-inplace-abn
